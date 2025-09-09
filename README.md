@@ -52,8 +52,6 @@
 
 
 // here show the index of the data that didn't produce the score correctly
-=== Skipped element indices (by model) ===
-Model    Count  Indices
 -------------------------------------------
 ## LLAMA       19  [5, 14, 18, 37, 56, 67, 76, 89, 92, 94, 98, 107, 124, 141, 149, 152, 162, 166, 180] 
 ## MISTRAL     14  [24, 35, 37, 43, 78, 91, 100, 114, 127, 128, 151, 166, 168, 169]
