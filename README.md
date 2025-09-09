@@ -4,22 +4,22 @@
 # every code is running under the main directory of this repo
 
 # Data preprocessing
-## To get the dataset we need, use main_code/data_processing.py to produce the Extract_MRBench_V1.json under dataset directory
+- To get the dataset we need, use main_code/data_processing.py to produce the Extract_MRBench_V1.json under dataset directory
 
 # get LLM_result
-## To get the LLM result from both model, run python -m main_code.get_LM_result to produce llama_result.json  and mistral.json
+- To get the LLM result from both model, run python -m main_code.get_LM_result to produce llama_result.json  and mistral.json
 
 # get evaluation result
-## to get evluation file from llama-3.1-8B, run python -m main_code.get_evaluation
+- to get evluation file from llama-3.1-8B, run python -m main_code.get_evaluation
 
 # extract points from the json files
-## to clean the data , run the  python main_code/clean_result.py, this will produce the cleaned_evaluation_result.json
+- to clean the data , run the  python main_code/clean_result.py, this will produce the cleaned_evaluation_result.json
 
 # transfer the standard in the MRBench to points
-## run the python main_code/transfer_MRB2point.py 
+- run the python main_code/transfer_MRB2point.py 
 
 # compare the file with the Benchmark and count the correlation
-## run python main_code/count_correlation.py
+- run python main_code/count_correlation.py
 
 
 # current final result
