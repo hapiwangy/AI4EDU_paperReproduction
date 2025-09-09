@@ -1,0 +1,17 @@
+model,dimension,damr_%,n_valid,n_skipped(-1)
+Llama,Actionability,96.53,173,19
+Llama,Coherence,98.28,174,18
+Llama,Human-likeness,98.84,173,19
+Llama,Mistake Identification,83.24,173,19
+Llama,Mistake Location,84.39,173,19
+Llama,Providing Guidance,83.82,173,19
+Llama,Revealing the Answer,27.75,173,19
+Llama,Tutor Tone,20.81,173,19
+Mistral,Actionability,55.06,178,14
+Mistral,Coherence,60.34,179,13
+Mistral,Human-likeness,73.03,178,14
+Mistral,Mistake Identification,43.82,178,14
+Mistral,Mistake Location,43.82,178,14
+Mistral,Providing Guidance,44.38,178,14
+Mistral,Revealing the Answer,53.93,178,14
+Mistral,Tutor Tone,22.47,178,14
